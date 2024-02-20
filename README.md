@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ericmoore0709
+- 👀 I’m interested in software development, math, strategy games, and rock music.
+- 🌱 I’m currently learning Fullstack web development with JavaScript libraries and frameworks.
+- 💞️ I’m looking to collaborate on projects that reduce or eliminate person-hours of manual processes.
+- 📫 How to reach me: ericmoore0709@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Let me get back to you on this one.
